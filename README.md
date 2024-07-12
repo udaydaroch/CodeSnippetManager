@@ -29,6 +29,6 @@ The Code Snippet Manager is a Chrome extension that allows developers to save, s
 2. **Navigate to the cloned directory**
    ``` bash
    cd {name of directory}
-3. **Open Chrome and go to `chrome://extensions/`
+3. **Open Chrome and go to `chrome://extensions/`**
 4. **Enable "Developer mode" by clicking the toggle switch in the top right corner**
 5. **Click the "Load Unpacked" buttton and select the cloned directory.**
